@@ -1,0 +1,24 @@
+/* CSS Document */
+p2 {
+	color: white;
+	background: chocolate;
+	text-align: center;
+}
+tr {
+ 	color: white;
+ 	background: chocolate;
+	text-align: center
+}
+p {
+	color:white;
+	background: red;
+	text-align: justify;
+}
+p3 {
+	color: white;
+	background: red;
+	text-align: justify;
+}
+body {
+	background:black;
+}
